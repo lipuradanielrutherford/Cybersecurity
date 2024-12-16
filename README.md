@@ -1,3 +1,3 @@
-# GoogleCybersecurity
+# Cybersecurity
 
-This includes all the activities I've take from Coursera.
+This includes all the activities I've taken from Coursera.
